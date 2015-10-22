@@ -6,14 +6,17 @@ h1{
     font-family: Kaushan Script; 
     color: aquamarine;
     text-shadow: -2.5px -2.5px 1px gold;
+    background-color: pink;
 }
 h2{
     font-family: Chewy;
     color:pink;
+    background-color: fuchsia;
     
 }
 h3{font-family: Playball;
     color: mediumpurple;
+    background-color: aquamarine;
  
     
 }
@@ -51,7 +54,8 @@ nav li{
         text-align: center;
         line-height: 3rem;  
         border: 0.5rem solid mediumpurple;
-        background-color: beige;
+        background-color: pink;
+        
     
 
 }
@@ -167,7 +171,7 @@ h2{
          width: 25%;
         line-height: 2.6rem;
         border:0.5px solid red;
-        background-color: mediumpurple;
+        background-color: pink;
         text-align: center;
     }
      nav li a:hover{
@@ -267,7 +271,7 @@ h2{
     nav li{
         border:3px solid red;
         line-height: 2.5rem;
-        background-color: mediumpurple;
+        background-color: pink;
     }
     
     h1{
