@@ -17,6 +17,11 @@ h3{font-family: Playball;
  
     
 }
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
 
 @media(max-width:35em){
  .masthead{
@@ -28,33 +33,34 @@ h3{font-family: Playball;
         
     }
 .wrapper{
-    max-width:960px;
+        max-width:560px;
         width:90%;
         margin:0 auto;
         background-color: lightyellow;
         
     }
-    nav ul{
+nav ul{
         display: block;
-        clear: both;
         list-style: none;
     
     }
 nav li{
-    width: 100%;
-    text-align: center;
-    line-height: 3rem; 
-    border: 0.5rem solid mediumpurple;
+        width: 100%;
+    
+
+        text-align: center;
+        line-height: 3rem;  
+        border: 0.5rem solid mediumpurple;
     
 
 }
-    nav li a {
+nav li a {
         text-decoration: none;
         color:greenyellow;
         font-size: 1.2rem;
         
     }
-     nav li a:hover{
+nav li a:hover{
         color:bisque;
     }
     
@@ -69,26 +75,26 @@ h2{
         font-size: 25px;
        
     }
-    h3{
+h3{
         text-align: center;
         font-size: 25px
     }
-    h4{
+h4{
         text-align: center;
         font-size: 25px;
     }
     
-    .left{
+.left{
         width: 100%;
         max-width: 35em;
     }
     
-     .right{
+.right{
         width: 100%;
         max-width: 35em;
     }
     
-    p{
+p{
         font-size: 0.8rem;
         color: grey;
         line-height: 2rem;
@@ -97,7 +103,7 @@ h2{
         
         
     }
-    .content{
+.content{
         background-color: aquamarine;
     }
    
@@ -112,28 +118,28 @@ h2{
     
 @media(min-width: 35em) and (max-width: 60em){
 
-    .wrapper{
+ .wrapper{
         margin:1.5rem;
         background-color: lightyellow;
         
        
     }
-    h1{
+h1{
         text-align: center;
         font-size: 40px;
         padding-top: 80px
     }
-    h2{
+h2{
         text-align: center;
         font-size: 30px;
     }
-    h3{
+ h3{
         text-align: center;
         font-size: 30px;
     }
     
-    .masthead{
-        
+.masthead{
+    
     background:  url( "http://thumbs.dreamstime.com/z/cute-white-cat-cartoon-sitting-illustration-30568605.jpg" );
         background-repeat: no-repeat;
         background-size: 10%;
