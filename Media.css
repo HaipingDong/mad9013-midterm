@@ -42,10 +42,9 @@ h3{font-family: Playball;
     }
 nav li{
     width: 100%;
-    
-    float:left;
     text-align: center;
-    line-height: 3rem;  
+    line-height: 3rem; 
+    border: 0.5rem solid mediumpurple;
     
 
 }
