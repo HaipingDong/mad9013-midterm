@@ -165,8 +165,8 @@ h2{
         float: left;
          width: 25%;
         line-height: 2.6rem;
-        
         border:0.5px solid red;
+        background-color: mediumpurple;
     }
      nav li a:hover{
         color:bisque;
@@ -208,6 +208,8 @@ h2{
         width: 100%;
         clear: both;
         text-align: center;
+        max-width: 960px;
+        padding-top: 1rem;
     }
 
 
