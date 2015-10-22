@@ -40,17 +40,17 @@ h3{font-family: Playball;
         
     }
 nav ul{
-        display: block;
+
         list-style: none;
-    
+        
     }
 nav li{
         width: 100%;
-    
-
+        max-width:560px;
         text-align: center;
         line-height: 3rem;  
         border: 0.5rem solid mediumpurple;
+        background-color: beige;
     
 
 }
