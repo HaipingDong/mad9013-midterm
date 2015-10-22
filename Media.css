@@ -31,7 +31,7 @@ h3{font-family: Playball;
     max-width:960px;
         width:90%;
         margin:0 auto;
-        background-color: lightyellow
+        background-color: lightyellow;
         
     }
     nav ul{
@@ -51,7 +51,7 @@ nav li{
 }
     nav li a {
         text-decoration: none;
-        color:purple;
+        color:greenyellow;
         font-size: 1.2rem;
         
     }
@@ -61,7 +61,7 @@ nav li{
     
 h1{
         text-align: center;
-    padding-top: 80px
+        padding-top: 80px;
     }
     
 h2{
@@ -76,7 +76,7 @@ h2{
     }
     h4{
         text-align: center;
-        font-size: 25px
+        font-size: 25px;
     }
     
     .left{
@@ -151,7 +151,7 @@ h2{
     }
      nav li a {
         text-decoration: none;
-        color:whitesmoke;
+        color:springgreen;
         font-size: 1.2rem;
          
         
@@ -167,18 +167,19 @@ h2{
         color:bisque;
     }
     .primary{
-        border:0.5rem solid orange;
+        border:0.5rem solid white;
         
     }
 
     .content{
         width: 63%;
         float: left;
+        
     }
     p{
         font-size: 1rem;
         line-height: 2rem;
-        
+        border: 1rem solid white;
         background-color: aquamarine;
         
     }
